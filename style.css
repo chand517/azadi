@@ -1,0 +1,83 @@
+*{
+    padding: 0px;
+    margin: 0%;
+}
+.main{
+      width: 100%;
+       background-position: center;
+       background-size: cover;
+       height: 100vh;
+   }
+.menu{
+    width: 1400px;
+    height: 90px;
+    margin-top: 30px;
+    margin-left: 140px;
+    background-color: #05883c00;
+    border: 1PX solid rgb(114, 250, 3);
+   
+}
+.logo{
+    background-color: green;
+    width: 80px;
+    height: 80px;
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 20px;
+    float: left;
+    padding-top: 10px;
+    margin-top: 0px;
+    margin-left: 40px;
+}
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul li{
+    list-style: none;
+    margin-left: 60px;
+    margin-top: 27px;
+    margin-left: 150px; 
+    font-size: 14px;
+    text-align: center;
+}
+ul li a{
+    text-decoration: none;
+    color: #181616;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}  
+ul li a:hover{
+    color: #ddc80af1;
+}
+.img{
+    /* width: 200px;
+    height: 300PX; */
+    padding-left: 10PX;
+}
+.web{
+    /* border: 1px solid black; */
+    text-align: center;
+}
+.pic{
+    margin-left: 190px;
+    margin-top: 30px;
+    display: inline;
+    float: left;
+}  
+.azadi{
+    margin-left: 30px ;
+    float: left;
+    margin-top: 30PX;
+}
+.vdo{
+    margin-top: 30px;
+    margin-left: 50px;
+    float: left; 
+    
+}
+
+
